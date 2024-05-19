@@ -1,5 +1,6 @@
-<div class="py-6 px-6 text-center">
-    <p class="mb-0 fs-4">Design and Developed by <a href="https://adminmart.com/" target="_blank"
-            class="pe-1 text-primary text-decoration-underline">AdminMart.com</a> Distributed by <a
-            href="https://themewagon.com">ThemeWagon</a></p>
-</div>
+<footer class="">
+    <div class="pull-right">
+        <p class="">Copyright © <?= date('Y') ?>. developed by <a href="https://tomoteknologi.id" target="_blank"> Tomo Teknologi Sinergi. </a> <span class="text-secondary">[versi 1.0]</span></p>
+    </div>
+    <div class="clearfix"></div>
+</footer>
